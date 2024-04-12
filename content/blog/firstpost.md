@@ -1,9 +1,9 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog
-date: 2018-05-01
+title: Hello Kitty
+description: Hello Kitty is super cute
+date: 2020-07-04
 tags:
-  - another tag
+  - HelloKitty
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam est neque, ultrices vel varius ac, cursus pretium velit. Curabitur efficitur lacus magna, at convallis diam rhoncus ut.
 
